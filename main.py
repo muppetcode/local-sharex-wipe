@@ -15,3 +15,5 @@ elif os.path.exists(PATHD):
 	print(f"{Fore.GREEN}Wiped")
 else:
 	print(f"{Fore.RED}Screenshot folder not found")
+
+print("laptop repo")
